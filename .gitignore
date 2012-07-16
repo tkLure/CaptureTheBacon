@@ -3,7 +3,7 @@ bin-debug/
 bin-release/
 
 # Project property files
-.actionScriptProperties
+.javaProperties
 .flexProperties
 .settings/
 .project
